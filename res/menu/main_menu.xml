@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/github"
+        android:icon="@drawable/ic_action_github"
+        android:orderInCategory="1"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_github_long"
+        android:titleCondensed="@string/menu_github_short"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_action_about"
+        android:orderInCategory="2"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_about_long"
+        android:titleCondensed="@string/menu_about_short"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/contact"
+        android:icon="@drawable/ic_action_contact"
+        android:orderInCategory="3"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_contact_long"
+        android:titleCondensed="@string/menu_contact_short"
+        android:visible="true">
+    </item>
+
+</menu>

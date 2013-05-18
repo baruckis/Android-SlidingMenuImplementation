@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    	<item id="1" name="Angry" icon="@drawable/ic_action_emo_angry_holo_dark" />
+		<item id="2" name="Basic" icon="@drawable/ic_action_emo_basic_holo_dark" />
+		<item id="3" name="Cool" icon="@drawable/ic_action_emo_cool_holo_dark" />
+		<item id="4" name="Cry" icon="@drawable/ic_action_emo_cry_holo_dark" />
+		<item id="5" name="Err" icon="@drawable/ic_action_emo_err_holo_dark" />
+		<item id="6" name="Evil" icon="@drawable/ic_action_emo_evil_holo_dark" />
+		<item id="7" name="Kiss" icon="@drawable/ic_action_emo_kiss_holo_dark" />
+		<item id="8" name="Laugh" icon="@drawable/ic_action_emo_laugh_holo_dark" />
+		<item id="9" name="Shame" icon="@drawable/ic_action_emo_shame_holo_dark" />
+		<item id="10" name="Tongue" icon="@drawable/ic_action_emo_tongue_holo_dark" />
+		<item id="11" name="Wink" icon="@drawable/ic_action_emo_wink_holo_dark" />
+		<item id="12" name="Wonder" icon="@drawable/ic_action_emo_wonder_holo_dark" />
+		
+</items>

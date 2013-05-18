@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item name="list_item_angry_id" type="slidingmenu" />
+    <item name="list_item_angry_label" type="slidingmenu">"Angry"</item>
+    <item name="list_item_angry_icon" type="slidingmenu">"@drawable/ic_action_emo_angry_holo_light"</item>
+    
+    <item name="list_item_basic_id" type="slidingmenu" />
+    <item name="list_item_basic_label" type="slidingmenu">"Basic"</item>
+    <item name="list_item_basic_icon" type="slidingmenu">"@drawable/ic_action_emo_basic_holo_light"</item>
+    
+    <item name="list_item_cool_id" type="slidingmenu" />
+    <item name="list_item_cool_label" type="slidingmenu">"Cool"</item>
+    <item name="list_item_cool_icon" type="slidingmenu">"@drawable/ic_action_emo_cool_holo_light"</item>
+    
+    <item name="list_item_cry_id" type="slidingmenu" />
+    <item name="list_item_cry_label" type="slidingmenu">"Cry"</item>
+    <item name="list_item_cry_icon" type="slidingmenu">"@drawable/ic_action_emo_cry_holo_light"</item>
+    
+    <item name="list_item_err_id" type="slidingmenu" />
+    <item name="list_item_err_label" type="slidingmenu">"Err"</item>
+    <item name="list_item_err_icon" type="slidingmenu">"@drawable/ic_action_emo_err_holo_light"</item>
+    
+    <item name="list_item_evil_id" type="slidingmenu" />
+    <item name="list_item_evil_label" type="slidingmenu">"Evil"</item>
+    <item name="list_item_evil_icon" type="slidingmenu">"@drawable/ic_action_emo_evil_holo_light"</item>
+    
+    <item name="list_item_kiss_id" type="slidingmenu" />
+    <item name="list_item_kiss_label" type="slidingmenu">"Kiss"</item>
+    <item name="list_item_kiss_icon" type="slidingmenu">"@drawable/ic_action_emo_kiss_holo_light"</item>
+    
+    <item name="list_item_laugh_id" type="slidingmenu" />
+    <item name="list_item_laugh_label" type="slidingmenu">"Laugh"</item>
+    <item name="list_item_laugh_icon" type="slidingmenu">"@drawable/ic_action_emo_laugh_holo_light"</item>
+    
+    <item name="list_item_shame_id" type="slidingmenu" />
+    <item name="list_item_shame_label" type="slidingmenu">"Shame"</item>
+    <item name="list_item_shame_icon" type="slidingmenu">"@drawable/ic_action_emo_shame_holo_light"</item>
+    
+    <item name="list_item_tongue_id" type="slidingmenu" />
+    <item name="list_item_tongue_label" type="slidingmenu">"Tongue"</item>
+    <item name="list_item_tongue_icon" type="slidingmenu">"@drawable/ic_action_emo_tongue_holo_light"</item>
+    
+    <item name="list_item_wink_id" type="slidingmenu" />
+    <item name="list_item_wink_label" type="slidingmenu">"Wink"</item>
+    <item name="list_item_wink_icon" type="slidingmenu">"@drawable/ic_action_emo_wink_holo_light"</item>
+    
+    <item name="list_item_wonder_id" type="slidingmenu" />
+    <item name="list_item_wonder_label" type="slidingmenu">"Wonder"</item>
+    <item name="list_item_wonder_icon" type="slidingmenu">"@drawable/ic_action_emo_wonder_holo_light"</item>
+    
+</resources>
